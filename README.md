@@ -33,11 +33,16 @@ python demo.py
 
 注意点などがあれば書く
 
-# 著者
+# 作成者
 
-* 作成者：小宮　全
+* 小宮　全
 * 東京交通短期大学
 * zen.komiya@toko.hosho.ac.jp
+
+* 倉山　太一
+* 植草学園大学
+* t-kurayama@uekusa.ac.jp
+
 
 # License
 ライセンスを明示する
