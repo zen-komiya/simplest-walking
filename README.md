@@ -3,32 +3,21 @@ https://www.jstage.jst.go.jp/article/jatpt/1/1/1_73/_article/-char/ja
 
 # 歩行運動方程式の数値計算方法─Simplest walking model─
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
-
-"hoge"が何かを簡潔に紹介する
+支援工学理学療法学会誌上で公開された歩行運動方程式の数値計算方法─Simplest walking model─内でのプログラム
 
 # DEMO
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
 # Features
 
-"hoge"のセールスポイントや差別化などを説明する
 
-# Requirement
+# 本プログラムを実行するための環境
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
-
-* huga 3.5.2
-* hogehuga 1.0.2
+Google Colaboratoryがあれば他には特に必要ありません．
 
 # Installation
 
-Requirementで列挙したライブラリなどのインストール方法を説明する
-
-```bash
-pip install huga_package
-```
+Google Colaboratoryのボタンをクリックしてください．
 
 # Usage
 
@@ -44,13 +33,11 @@ python demo.py
 
 注意点などがあれば書く
 
-# Author
+# 著者
 
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
+* 作成者：小宮　全
+* 東京交通短期大学
+* zen.komiya@toko.hosho.ac.jp
 
 # License
 ライセンスを明示する
