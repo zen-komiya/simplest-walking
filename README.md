@@ -1,6 +1,3 @@
-# simplest-walking
-https://www.jstage.jst.go.jp/article/jatpt/1/1/1_73/_article/-char/ja
-
 # 歩行運動方程式の数値計算方法─Simplest walking model─
 
 支援工学理学療法学会誌上で公開された歩行運動方程式の数値計算方法─Simplest walking model─内でのプログラム
